@@ -17,7 +17,10 @@ Blog: The blog page will contain regularly updated articles related to mental he
 
 
 2. About Us: This page will describe the purpose and mission of the Mental Peace website. It will also provide information about the organization behind the site and its founders.
+<img src="https://github.com/Madhumitamoi/MindMatters/blob/main/pictures/Screenshot%20(31).png" width="700" height="600">
 
 3. Services- Doctors and mental health counsellors and specialists
+<img src="https://github.com/Madhumitamoi/MindMatters/blob/main/pictures/Screenshot%20(32).png" width="700" height="600">
 
 4. Contact Us: This page will have a form where visitors can send their queries, feedback and any suggestions or concerns.
+<img src="https://github.com/Madhumitamoi/MindMatters/blob/main/pictures/Screenshot%20(33).png" width="700" height="600">
