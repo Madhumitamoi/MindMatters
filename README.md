@@ -13,6 +13,9 @@ Self-Care Techniques: This page will offer suggestions for self-care techniques,
 
 Blog: The blog page will contain regularly updated articles related to mental health and well-being. It will also feature guest posts from mental health experts and personal stories from those who have struggled with mental health challenges.
 
+<img src="https://github.com/Madhumitamoi/MindMatters/blob/main/pictures/Screenshot%20(28).png" width="700" height="600"> <img src="https://github.com/Madhumitamoi/MindMatters/blob/main/pictures/Screenshot%20(29).png" width="700" height="600"> <img src="https://github.com/Madhumitamoi/MindMatters/blob/main/pictures/Screenshot%20(30).png" width="700" height="600">
+
+
 2. About Us: This page will describe the purpose and mission of the Mental Peace website. It will also provide information about the organization behind the site and its founders.
 
 3. Services- Doctors and mental health counsellors and specialists
