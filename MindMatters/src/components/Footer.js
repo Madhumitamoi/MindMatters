@@ -3,11 +3,11 @@ import "./FooterStyles.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <div className="top"></div>
+      <div className="top">
       <div>
         <h1>MindMatters</h1>
         <p>Faith in your abilities</p>
-
+     </div>
         <div>
           <a href="/">
             <i className="fa-brands fa-facebook-square"></i>
@@ -19,8 +19,9 @@ const Footer = () => {
             <i className="fa-brands fa-twitter-square"></i>
           </a>
         </div>
+        </div>
 
-        <div className="bottom"></div>
+        <div className="bottom">
         <div>
           <h4>Project</h4>
           <a href="/">Changelog</a>
@@ -41,7 +42,7 @@ const Footer = () => {
           <a href="/">Contact Us</a>
         </div>
       </div>
-    </div>
+      </div>
   );
 };
 
